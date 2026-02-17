@@ -1,7 +1,7 @@
 # Reproducing *Diffusion Beats GANs on Image Synthesis*  
 
 ## Introduction  
-This repository contains my attempt at reproducing the results from the paper [*Diffusion Beats GANs on Image Synthesis*](https://arxiv.org/abs/2105.05233) which introduced improved diffusion architecture and classifier guidance. I implemented the guided diffusion model across multiple resolutions (64×64, 128×128, 256×256, 512×512) and evaluated the generated sample
+This repository contains my attempt at reproducing the results from the paper [*Diffusion Beats GANs on Image Synthesis*](https://arxiv.org/abs/2105.05233) which introduced improved diffusion architecture and classifier guidance. I implemented the guided diffusion model across multiple resolutions (64×64, 128×128, 256×256, 512×512) and evaluated the generated samples.
 
 ---
 
